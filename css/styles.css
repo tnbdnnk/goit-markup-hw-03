@@ -342,7 +342,7 @@ img {
   margin-top: 20px;
 }
 
-.footer-list-item {
+.footer-list-item:not(:last-child) {
   margin-bottom: 9px;
 }
 
